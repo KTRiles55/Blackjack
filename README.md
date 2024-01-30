@@ -1,1 +1,1 @@
-# Blackjack
+A simplified version of the card game, BlackJack, programmed using Python. The user will challenge a computer-generated dealer that will assign you a random hand of 2 cards in each round and will be able to draw a new card by "hitting" or choose to "stand" by not drawing any cards until the dealer's turn.
