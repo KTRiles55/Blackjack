@@ -1,3 +1,4 @@
+# Description
 A simplified version of the card game, BlackJack, programmed using Python. The user will challenge a computer-generated dealer that will assign you a random hand of 2 cards in each round and will be able to draw a new card by "hitting" or choose to "stand" by not drawing any cards until the dealer's turn. The winner is determined by which player has the higher score and must be at most 21, otherwise it results in a "Bust", which is an automatic loss. The user can play as many times as they want until they or the dealer run out of chips.
 
 # User manual
